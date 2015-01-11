@@ -1,0 +1,8 @@
+py==1.4.26
+pyfrc==2015.1.0
+pynetconsole==1.1.0
+pynetworktables==2015.0.5
+pytest==2.6.4
+robotpy-hal-base==2015.0.2
+robotpy-hal-sim==2015.0.2
+wpilib==2015.0.2
